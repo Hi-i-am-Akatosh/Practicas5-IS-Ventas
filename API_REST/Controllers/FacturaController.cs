@@ -1,4 +1,9 @@
-﻿using AcessoDatos;
+﻿// NOMBRE APELLIDOS: David Fernando Navarro Rodríguez
+// PARALELO: Q0106
+// SI – INTEGRACIÓN DE SISTEMAS 
+// FECHA: 28/04/2024
+// PRÁCTICA No. 5
+using AcessoDatos;
 using Negocio;
 using System;
 using System.Collections.Generic;
